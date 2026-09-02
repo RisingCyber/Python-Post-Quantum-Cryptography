@@ -40,7 +40,8 @@ Both ML-DSA and ML-KEM rest on the hardness of **Module-LWE** (Learning With Err
 > It confirms the bindings behave per spec (FIPS 203 / FIPS 204) and that your environment is correctly wired up.
 >
 > It says **nothing** about side-channel resistance, constant-time behavior, or the security of the underlying AWS-LC / Rust implementation itself.
-
+>
+> Thanks for Sovereign Tech
 ---
 
 ## Topics
