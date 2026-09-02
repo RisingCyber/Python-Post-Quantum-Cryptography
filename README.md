@@ -41,7 +41,7 @@ Both ML-DSA and ML-KEM rest on the hardness of **Module-LWE** (Learning With Err
 >
 > It says **nothing** about side-channel resistance, constant-time behavior, or the security of the underlying AWS-LC / Rust implementation itself.
 >
-> Thanks for Sovereign Tech
+> Many thanks to Sovereign Tech (sovereign.tech)
 ---
 
 ## Topics
