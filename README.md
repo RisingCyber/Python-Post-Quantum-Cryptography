@@ -6,7 +6,7 @@
 ![pyca/cryptography](https://img.shields.io/badge/pyca%2Fcryptography-%3E%3D48-informational)
 ![Python](https://img.shields.io/badge/python-3.9%2B-yellow)
 
-A simple proof of concept for post-quantum cryptography via `pip`, to be used for any Python code — nothing else.
+A simple proof of concept for post-quantum cryptography via `pip`, to be used for any Python code, and nothing else.
 
 Testing ML-KEM and ML-DSA in `pyca/cryptography` 48+, the two post-quantum algorithms currently supported.
 
